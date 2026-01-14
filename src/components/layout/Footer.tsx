@@ -18,10 +18,10 @@ const Footer = () => {
 
           <div className="flex flex-col items-center md:items-end gap-2">
             <a
-              href="mailto:roboto.sai@gmail.com"
+              href="mailto:roboto.sai@outlook.com"
               className="text-sm text-muted-foreground hover:text-accent transition-colors"
             >
-              roboto.sai@gmail.com
+              roboto.sai@outlook.com
             </a>
             <p className="text-sm text-muted-foreground">
               © {currentYear} Roboto SAI — All Rights Reserved
