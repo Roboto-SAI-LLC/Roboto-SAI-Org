@@ -7,6 +7,7 @@ import Index from "./pages/Index";
 import About from "./pages/About";
 import Governance from "./pages/Governance";
 import Donate from "./pages/Donate";
+import DonorPortal from "./pages/DonorPortal";
 import Contact from "./pages/Contact";
 import NotFound from "./pages/NotFound";
 
@@ -23,6 +24,7 @@ const App = () => (
           <Route path="/about" element={<About />} />
           <Route path="/governance" element={<Governance />} />
           <Route path="/donate" element={<Donate />} />
+          <Route path="/donor-portal" element={<DonorPortal />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="*" element={<NotFound />} />
         </Routes>

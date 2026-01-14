@@ -55,6 +55,13 @@ const About = () => {
                     augment human capability, not replace human judgment.
                   </span>
                 </li>
+                <li className="flex items-start gap-3">
+                  <span className="text-accent mt-1">•</span>
+                  <span>
+                    <strong className="text-foreground">Donor-Exclusive Knowledge:</strong> Our research, 
+                    insights, and findings are shared exclusively with supporters who help fund our mission.
+                  </span>
+                </li>
               </ul>
 
               <h2 className="text-2xl font-semibold text-foreground mt-12 mb-4">
