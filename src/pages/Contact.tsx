@@ -60,10 +60,10 @@ const Contact = () => {
                 <span className="font-medium text-foreground">Direct Email</span>
               </div>
               <a
-                href="mailto:roboto.sai@gmail.com"
+                href="mailto:roboto.sai@outlook.com"
                 className="text-muted-foreground hover:text-accent transition-colors"
               >
-                roboto.sai@gmail.com
+                roboto.sai@outlook.com
               </a>
             </div>
 
