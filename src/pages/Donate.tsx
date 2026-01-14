@@ -33,7 +33,7 @@ const Donate = () => {
                 className="bg-accent text-accent-foreground hover:bg-accent/90 w-full sm:w-auto"
               >
                 <a
-                  href="https://www.buymeacoffee.com/roboto.sai"
+                  href="https://www.buymeacoffee.com/RobotoSAI"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
